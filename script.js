@@ -4,6 +4,7 @@ let bear = {
     eat: {
         honey: true,
         bunny: false,
+        fish: true,
     },
 
 }
