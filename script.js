@@ -5,6 +5,7 @@ let bear = {
         honey: true,
         bunny: false,
         fish: true,
+        ovo: false,
     },
 
 }
